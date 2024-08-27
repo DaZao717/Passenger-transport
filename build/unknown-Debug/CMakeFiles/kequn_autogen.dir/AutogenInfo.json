@@ -1,0 +1,194 @@
+{
+	"AUTOGEN_COMMAND_LINE_LENGTH_MAX" : 32000,
+	"BUILD_DIR" : "C:/Users/\u6211\u7684\u7535\u8111/Desktop/summer pockets/kequn/build/unknown-Debug/kequn_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/\u6211\u7684\u7535\u8111/Desktop/summer pockets/kequn/build/unknown-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/\u6211\u7684\u7535\u8111/Desktop/summer pockets/kequn/build/unknown-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/\u6211\u7684\u7535\u8111/Desktop/summer pockets/kequn",
+	"CMAKE_EXECUTABLE" : "D:/software/Qt/Tools/CMake_64/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"C:/Users/\u6211\u7684\u7535\u8111/Desktop/summer pockets/kequn/CMakeLists.txt",
+		"C:/Users/\u6211\u7684\u7535\u8111/Desktop/summer pockets/kequn/build/unknown-Debug/.qtc/package-manager/auto-setup.cmake",
+		"C:/Users/\u6211\u7684\u7535\u8111/Desktop/summer pockets/kequn/build/unknown-Debug/CMakeFiles/3.29.3/CMakeSystem.cmake",
+		"D:/software/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeSystemSpecificInitialize.cmake",
+		"D:/software/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Platform/Windows-Initialize.cmake",
+		"C:/Users/\u6211\u7684\u7535\u8111/Desktop/summer pockets/kequn/build/unknown-Debug/CMakeFiles/3.29.3/CMakeCXXCompiler.cmake",
+		"D:/software/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeSystemSpecificInformation.cmake",
+		"D:/software/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeGenericSystem.cmake",
+		"D:/software/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeInitializeConfigs.cmake",
+		"D:/software/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Platform/Windows.cmake",
+		"D:/software/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Platform/WindowsPaths.cmake",
+		"D:/software/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeCXXInformation.cmake",
+		"D:/software/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeLanguageInformation.cmake",
+		"D:/software/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/MSVC-CXX.cmake",
+		"D:/software/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/MSVC.cmake",
+		"D:/software/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"D:/software/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Platform/Windows-MSVC-CXX.cmake",
+		"D:/software/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Platform/Windows-MSVC.cmake",
+		"C:/Users/\u6211\u7684\u7535\u8111/Desktop/summer pockets/kequn/build/unknown-Debug/CMakeFiles/3.29.3/CMakeRCCompiler.cmake",
+		"D:/software/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeRCInformation.cmake",
+		"D:/software/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeCommonLanguageInclude.cmake",
+		"D:/software/anaconda/Library/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"D:/software/anaconda/Library/lib/cmake/Qt5/Qt5Config.cmake",
+		"D:/software/anaconda/Library/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"D:/software/anaconda/Library/lib/cmake/Qt5/Qt5Config.cmake",
+		"D:/software/anaconda/Library/lib/cmake/Qt5/Qt5ModuleLocation.cmake",
+		"D:/software/anaconda/Library/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake",
+		"D:/software/anaconda/Library/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake",
+		"D:/software/anaconda/Library/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake",
+		"D:/software/anaconda/Library/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake",
+		"D:/software/anaconda/Library/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"D:/software/anaconda/Library/lib/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"D:/software/anaconda/Library/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
+		"D:/software/anaconda/Library/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
+		"D:/software/anaconda/Library/lib/cmake/Qt5Core/Qt5CoreMacros.cmake",
+		"D:/software/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeParseArguments.cmake",
+		"D:/software/anaconda/Library/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake",
+		"D:/software/anaconda/Library/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake",
+		"D:/software/anaconda/Library/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake",
+		"D:/software/anaconda/Library/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake",
+		"D:/software/anaconda/Library/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake",
+		"D:/software/anaconda/Library/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake",
+		"D:/software/anaconda/Library/lib/cmake/Qt5Gui/Qt5Gui_QPdfPlugin.cmake",
+		"D:/software/anaconda/Library/lib/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake",
+		"D:/software/anaconda/Library/lib/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake",
+		"D:/software/anaconda/Library/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake",
+		"D:/software/anaconda/Library/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake",
+		"D:/software/anaconda/Library/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake",
+		"D:/software/anaconda/Library/lib/cmake/Qt5Gui/Qt5Gui_QVirtualKeyboardPlugin.cmake",
+		"D:/software/anaconda/Library/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake",
+		"D:/software/anaconda/Library/lib/cmake/Qt5Gui/Qt5Gui_QWebGLIntegrationPlugin.cmake",
+		"D:/software/anaconda/Library/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake",
+		"D:/software/anaconda/Library/lib/cmake/Qt5Gui/Qt5Gui_QWindowsDirect2DIntegrationPlugin.cmake",
+		"D:/software/anaconda/Library/lib/cmake/Qt5Gui/Qt5Gui_QWindowsIntegrationPlugin.cmake",
+		"D:/software/anaconda/Library/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake",
+		"D:/software/anaconda/Library/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake",
+		"D:/software/anaconda/Library/lib/cmake/Qt5Widgets/Qt5Widgets_QWindowsVistaStylePlugin.cmake",
+		"D:/software/anaconda/Library/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake",
+		"D:/software/anaconda/Library/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake",
+		"D:/software/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeParseArguments.cmake",
+		"D:/software/Qt/Tools/CMake_64/share/cmake-3.29/Modules/GNUInstallDirs.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "C:/Users/\u6211\u7684\u7535\u8111/Desktop/summer pockets/kequn",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "C:/Users/\u6211\u7684\u7535\u8111/Desktop/summer pockets/kequn/build/unknown-Debug/kequn_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "kequn_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"C:/Users/\u6211\u7684\u7535\u8111/Desktop/summer pockets/kequn/detailedinfo.h",
+			"MU",
+			"EWIEGA46WW/moc_detailedinfo.cpp",
+			null
+		],
+		[
+			"C:/Users/\u6211\u7684\u7535\u8111/Desktop/summer pockets/kequn/mainwindow.h",
+			"MU",
+			"EWIEGA46WW/moc_mainwindow.cpp",
+			null
+		],
+		[
+			"C:/Users/\u6211\u7684\u7535\u8111/Desktop/summer pockets/kequn/morebus.h",
+			"MU",
+			"EWIEGA46WW/moc_morebus.cpp",
+			null
+		],
+		[
+			"C:/Users/\u6211\u7684\u7535\u8111/Desktop/summer pockets/kequn/morepassenger.h",
+			"MU",
+			"EWIEGA46WW/moc_morepassenger.cpp",
+			null
+		],
+		[
+			"C:/Users/\u6211\u7684\u7535\u8111/Desktop/summer pockets/kequn/passenger_bus_day.h",
+			"MU",
+			"EWIEGA46WW/moc_passenger_bus_day.cpp",
+			null
+		],
+		[
+			"C:/Users/\u6211\u7684\u7535\u8111/Desktop/summer pockets/kequn/search.h",
+			"MU",
+			"EWIEGA46WW/moc_search.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "C:/Users/\u6211\u7684\u7535\u8111/Desktop/summer pockets/kequn/build/unknown-Debug/kequn_autogen/include",
+	"MOC_COMPILATION_FILE" : "C:/Users/\u6211\u7684\u7535\u8111/Desktop/summer pockets/kequn/build/unknown-Debug/kequn_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_WIDGETS_LIB", "WIN32" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"D:/software/anaconda/Library/include/qt",
+		"D:/software/anaconda/Library/include/qt/QtWidgets",
+		"D:/software/anaconda/Library/include/qt/QtGui",
+		"D:/software/anaconda/Library/include/qt/QtANGLE",
+		"D:/software/anaconda/Library/include/qt/QtCore",
+		"D:/software/anaconda/Library/mkspecs/win32-msvc"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : [],
+	"MOC_PREDEFS_FILE" : "",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 14,
+	"PARSE_CACHE_FILE" : "C:/Users/\u6211\u7684\u7535\u8111/Desktop/summer pockets/kequn/build/unknown-Debug/CMakeFiles/kequn_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "D:/software/anaconda/Library/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "D:/software/anaconda/Library/bin/uic.exe",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "C:/Users/\u6211\u7684\u7535\u8111/Desktop/summer pockets/kequn/build/unknown-Debug/CMakeFiles/kequn_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"C:/Users/\u6211\u7684\u7535\u8111/Desktop/summer pockets/kequn/detailedinfo.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/\u6211\u7684\u7535\u8111/Desktop/summer pockets/kequn/main.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/\u6211\u7684\u7535\u8111/Desktop/summer pockets/kequn/mainwindow.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/\u6211\u7684\u7535\u8111/Desktop/summer pockets/kequn/morebus.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/\u6211\u7684\u7535\u8111/Desktop/summer pockets/kequn/morepassenger.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/\u6211\u7684\u7535\u8111/Desktop/summer pockets/kequn/passenger_bus_day.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/\u6211\u7684\u7535\u8111/Desktop/summer pockets/kequn/search.cpp",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}

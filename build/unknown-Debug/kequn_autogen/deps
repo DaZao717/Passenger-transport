@@ -1,0 +1,183 @@
+kequn_autogen/timestamp: \
+	C:/Users/????/Desktop/summer\ pockets/kequn/detailedinfo.h \
+	C:/Users/????/Desktop/summer\ pockets/kequn/mainwindow.h \
+	C:/Users/????/Desktop/summer\ pockets/kequn/morebus.h \
+	C:/Users/????/Desktop/summer\ pockets/kequn/morepassenger.h \
+	C:/Users/????/Desktop/summer\ pockets/kequn/search.h \
+	C:/Users/我的电脑/Desktop/summer\ pockets/kequn/CMakeLists.txt \
+	C:/Users/我的电脑/Desktop/summer\ pockets/kequn/build/unknown-Debug/.qtc/package-manager/auto-setup.cmake \
+	C:/Users/我的电脑/Desktop/summer\ pockets/kequn/build/unknown-Debug/CMakeFiles/3.29.3/CMakeCXXCompiler.cmake \
+	C:/Users/我的电脑/Desktop/summer\ pockets/kequn/build/unknown-Debug/CMakeFiles/3.29.3/CMakeRCCompiler.cmake \
+	C:/Users/我的电脑/Desktop/summer\ pockets/kequn/build/unknown-Debug/CMakeFiles/3.29.3/CMakeSystem.cmake \
+	C:/Users/我的电脑/Desktop/summer\ pockets/kequn/detailedinfo.cpp \
+	C:/Users/我的电脑/Desktop/summer\ pockets/kequn/detailedinfo.h \
+	C:/Users/我的电脑/Desktop/summer\ pockets/kequn/main.cpp \
+	C:/Users/我的电脑/Desktop/summer\ pockets/kequn/mainwindow.cpp \
+	C:/Users/我的电脑/Desktop/summer\ pockets/kequn/mainwindow.h \
+	C:/Users/我的电脑/Desktop/summer\ pockets/kequn/morebus.cpp \
+	C:/Users/我的电脑/Desktop/summer\ pockets/kequn/morebus.h \
+	C:/Users/我的电脑/Desktop/summer\ pockets/kequn/morepassenger.cpp \
+	C:/Users/我的电脑/Desktop/summer\ pockets/kequn/morepassenger.h \
+	C:/Users/我的电脑/Desktop/summer\ pockets/kequn/passenger_bus_day.cpp \
+	C:/Users/我的电脑/Desktop/summer\ pockets/kequn/passenger_bus_day.h \
+	C:/Users/我的电脑/Desktop/summer\ pockets/kequn/search.cpp \
+	C:/Users/我的电脑/Desktop/summer\ pockets/kequn/search.h \
+	D:/software/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeCXXInformation.cmake \
+	D:/software/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeCommonLanguageInclude.cmake \
+	D:/software/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeGenericSystem.cmake \
+	D:/software/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeInitializeConfigs.cmake \
+	D:/software/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeLanguageInformation.cmake \
+	D:/software/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeParseArguments.cmake \
+	D:/software/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeRCInformation.cmake \
+	D:/software/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeSystemSpecificInformation.cmake \
+	D:/software/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeSystemSpecificInitialize.cmake \
+	D:/software/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/CMakeCommonCompilerMacros.cmake \
+	D:/software/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/MSVC-CXX.cmake \
+	D:/software/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/MSVC.cmake \
+	D:/software/Qt/Tools/CMake_64/share/cmake-3.29/Modules/GNUInstallDirs.cmake \
+	D:/software/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Platform/Windows-Initialize.cmake \
+	D:/software/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Platform/Windows-MSVC-CXX.cmake \
+	D:/software/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Platform/Windows-MSVC.cmake \
+	D:/software/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Platform/Windows.cmake \
+	D:/software/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Platform/WindowsPaths.cmake \
+	D:/software/anaconda/Library/include/qt/QtCore/QDebug \
+	D:/software/anaconda/Library/include/qt/QtCore/QFile \
+	D:/software/anaconda/Library/include/qt/QtCore/qalgorithms.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qarraydata.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qatomic.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qbasicatomic.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qbytearray.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qbytearraylist.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qchar.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qcompilerdetection.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qconfig.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qcontainerfwd.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qcontainertools_impl.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qcontiguouscache.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qdatastream.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qdebug.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qfile.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qfiledevice.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qflags.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qglobal.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qglobalstatic.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qhash.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qhashfunctions.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qiodevice.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qiterator.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qline.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qlist.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qlocale.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qlogging.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qmap.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qmargins.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qmetatype.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qmutex.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qnamespace.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qnumeric.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qobject.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qobject_impl.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qobjectdefs.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qobjectdefs_impl.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qpair.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qpoint.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qprocessordetection.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qrect.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qrefcount.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qregexp.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qscopedpointer.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qset.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qshareddata.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qsharedpointer.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qsharedpointer_impl.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qsize.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qstring.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qstringalgorithms.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qstringlist.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qstringliteral.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qstringmatcher.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qstringview.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qsysinfo.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qsystemdetection.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qtcore-config.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qtextstream.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qtypeinfo.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qvariant.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qvarlengtharray.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qvector.h \
+	D:/software/anaconda/Library/include/qt/QtCore/qversiontagging.h \
+	D:/software/anaconda/Library/include/qt/QtGui/qbrush.h \
+	D:/software/anaconda/Library/include/qt/QtGui/qcolor.h \
+	D:/software/anaconda/Library/include/qt/QtGui/qcursor.h \
+	D:/software/anaconda/Library/include/qt/QtGui/qfont.h \
+	D:/software/anaconda/Library/include/qt/QtGui/qfontinfo.h \
+	D:/software/anaconda/Library/include/qt/QtGui/qfontmetrics.h \
+	D:/software/anaconda/Library/include/qt/QtGui/qicon.h \
+	D:/software/anaconda/Library/include/qt/QtGui/qimage.h \
+	D:/software/anaconda/Library/include/qt/QtGui/qkeysequence.h \
+	D:/software/anaconda/Library/include/qt/QtGui/qmatrix.h \
+	D:/software/anaconda/Library/include/qt/QtGui/qpaintdevice.h \
+	D:/software/anaconda/Library/include/qt/QtGui/qpalette.h \
+	D:/software/anaconda/Library/include/qt/QtGui/qpixelformat.h \
+	D:/software/anaconda/Library/include/qt/QtGui/qpixmap.h \
+	D:/software/anaconda/Library/include/qt/QtGui/qpolygon.h \
+	D:/software/anaconda/Library/include/qt/QtGui/qregion.h \
+	D:/software/anaconda/Library/include/qt/QtGui/qrgb.h \
+	D:/software/anaconda/Library/include/qt/QtGui/qrgba64.h \
+	D:/software/anaconda/Library/include/qt/QtGui/qtgui-config.h \
+	D:/software/anaconda/Library/include/qt/QtGui/qtguiglobal.h \
+	D:/software/anaconda/Library/include/qt/QtGui/qtransform.h \
+	D:/software/anaconda/Library/include/qt/QtGui/qwindowdefs.h \
+	D:/software/anaconda/Library/include/qt/QtGui/qwindowdefs_win.h \
+	D:/software/anaconda/Library/include/qt/QtWidgets/QDialog \
+	D:/software/anaconda/Library/include/qt/QtWidgets/QMainWindow \
+	D:/software/anaconda/Library/include/qt/QtWidgets/QMessageBox \
+	D:/software/anaconda/Library/include/qt/QtWidgets/qdialog.h \
+	D:/software/anaconda/Library/include/qt/QtWidgets/qmainwindow.h \
+	D:/software/anaconda/Library/include/qt/QtWidgets/qmessagebox.h \
+	D:/software/anaconda/Library/include/qt/QtWidgets/qsizepolicy.h \
+	D:/software/anaconda/Library/include/qt/QtWidgets/qtabwidget.h \
+	D:/software/anaconda/Library/include/qt/QtWidgets/qtwidgets-config.h \
+	D:/software/anaconda/Library/include/qt/QtWidgets/qtwidgetsglobal.h \
+	D:/software/anaconda/Library/include/qt/QtWidgets/qwidget.h \
+	D:/software/anaconda/Library/lib/cmake/Qt5/Qt5Config.cmake \
+	D:/software/anaconda/Library/lib/cmake/Qt5/Qt5ConfigVersion.cmake \
+	D:/software/anaconda/Library/lib/cmake/Qt5/Qt5ModuleLocation.cmake \
+	D:/software/anaconda/Library/lib/cmake/Qt5Core/Qt5CoreConfig.cmake \
+	D:/software/anaconda/Library/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake \
+	D:/software/anaconda/Library/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake \
+	D:/software/anaconda/Library/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake \
+	D:/software/anaconda/Library/lib/cmake/Qt5Core/Qt5CoreMacros.cmake \
+	D:/software/anaconda/Library/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake \
+	D:/software/anaconda/Library/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake \
+	D:/software/anaconda/Library/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake \
+	D:/software/anaconda/Library/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake \
+	D:/software/anaconda/Library/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake \
+	D:/software/anaconda/Library/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake \
+	D:/software/anaconda/Library/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake \
+	D:/software/anaconda/Library/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake \
+	D:/software/anaconda/Library/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake \
+	D:/software/anaconda/Library/lib/cmake/Qt5Gui/Qt5Gui_QPdfPlugin.cmake \
+	D:/software/anaconda/Library/lib/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake \
+	D:/software/anaconda/Library/lib/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake \
+	D:/software/anaconda/Library/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake \
+	D:/software/anaconda/Library/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake \
+	D:/software/anaconda/Library/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake \
+	D:/software/anaconda/Library/lib/cmake/Qt5Gui/Qt5Gui_QVirtualKeyboardPlugin.cmake \
+	D:/software/anaconda/Library/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake \
+	D:/software/anaconda/Library/lib/cmake/Qt5Gui/Qt5Gui_QWebGLIntegrationPlugin.cmake \
+	D:/software/anaconda/Library/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake \
+	D:/software/anaconda/Library/lib/cmake/Qt5Gui/Qt5Gui_QWindowsDirect2DIntegrationPlugin.cmake \
+	D:/software/anaconda/Library/lib/cmake/Qt5Gui/Qt5Gui_QWindowsIntegrationPlugin.cmake \
+	D:/software/anaconda/Library/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake \
+	D:/software/anaconda/Library/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake \
+	D:/software/anaconda/Library/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake \
+	D:/software/anaconda/Library/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake \
+	D:/software/anaconda/Library/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake \
+	D:/software/anaconda/Library/lib/cmake/Qt5Widgets/Qt5Widgets_QWindowsVistaStylePlugin.cmake \
+	C:/Users/我的电脑/Desktop/summer\ pockets/kequn/detailedinfo.ui \
+	C:/Users/我的电脑/Desktop/summer\ pockets/kequn/mainwindow.ui \
+	C:/Users/我的电脑/Desktop/summer\ pockets/kequn/morebus.ui \
+	C:/Users/我的电脑/Desktop/summer\ pockets/kequn/morepassenger.ui \
+	C:/Users/我的电脑/Desktop/summer\ pockets/kequn/search.ui \
+	D:/software/Qt/Tools/CMake_64/bin/cmake.exe

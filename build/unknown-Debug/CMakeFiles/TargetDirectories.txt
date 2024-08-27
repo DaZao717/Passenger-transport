@@ -1,0 +1,8 @@
+C:/Users/我的电脑/Desktop/summer pockets/kequn/build/unknown-Debug/CMakeFiles/kequn.dir
+C:/Users/我的电脑/Desktop/summer pockets/kequn/build/unknown-Debug/CMakeFiles/edit_cache.dir
+C:/Users/我的电脑/Desktop/summer pockets/kequn/build/unknown-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/我的电脑/Desktop/summer pockets/kequn/build/unknown-Debug/CMakeFiles/list_install_components.dir
+C:/Users/我的电脑/Desktop/summer pockets/kequn/build/unknown-Debug/CMakeFiles/install.dir
+C:/Users/我的电脑/Desktop/summer pockets/kequn/build/unknown-Debug/CMakeFiles/install/local.dir
+C:/Users/我的电脑/Desktop/summer pockets/kequn/build/unknown-Debug/CMakeFiles/kequn_autogen_timestamp_deps.dir
+C:/Users/我的电脑/Desktop/summer pockets/kequn/build/unknown-Debug/CMakeFiles/kequn_autogen.dir
